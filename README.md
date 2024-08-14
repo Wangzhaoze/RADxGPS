@@ -15,17 +15,13 @@
 </div>
 
 <div align="center">
-    <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank" class="external-link button is-normal is-rounded is-dark">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10628992" target="_blank" class="external-link button is-normal is-rounded is-dark">
         <span class="icon"><i class="fas fa-file-pdf"></i></span>
         <span>Paper</span>
     </a>
     <a href="https://github.com/Wangzhaoze/RADxGPS" target="_blank" class="external-link button is-normal is-rounded is-dark">
         <span class="icon"><i class="fab fa-github"></i></span>
         <span>Code</span>
-    </a>
-    <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank" class="external-link button is-normal is-rounded is-dark">
-        <span class="icon"><i class="ai ai-arxiv"></i></span>
-        <span>arXiv</span>
     </a>
 </div>
 
