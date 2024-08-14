@@ -52,4 +52,10 @@ Automotive radar plays a crucial role in providing reliable environmental percep
 ## BibTeX
 
 ```bibtex
-BibTex Code Here
+@article{wang2024cross,
+  title={Cross-Modal Supervision Based Road Segmentation and Trajectory Prediction with Automotive Radar},
+  author={Wang, Zhaoze and Jin, Yi and Deligiannis, Anastasios and Fuentes-Michel, Juan-Carlos and Vossiek, Martin},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}
